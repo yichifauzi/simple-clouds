@@ -24,6 +24,9 @@ Before opening a bug report, please do the following:
 
 ### Features/Suggestions
 
+Please **do not suggest** your idea if it pertains to:
+- Adding "fantasy" cloud types to the mod. By "fantasy" we mean cloud types that you come up with or those that do not exist in real life. You can create your own cloud types with datapacks/resourcepacks.
+
 Before opening a feature/suggestion/idea issue, please do the following:
 - Make sure your feature/suggestion/idea has not already been suggested (as outlined above) and that **it is not already planned or exists in the mod.** Make sure you are playing with the latest version to understand what all exists.
 - **Include all required information** in the feature request form.
